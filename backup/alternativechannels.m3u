@@ -1,0 +1,228 @@
+#EXTM3U
+
+#EXTINF:-1, La 1 FHD
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1, La 2 FHD
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1, Antena 3 FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fantena3%2F
+
+#EXTINF:-1, TDP FHD
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1, 24H FHD
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1, Cuatro HD
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204&title=http%3A%2F%2Fwww.giniko.com%2Fwatch.php%3Fid%3D1204
+
+#EXTINF:-1, Telecinco HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dtelecinco
+
+#EXTINF:-1, LaSexta FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Flasexta%2F
+
+#EXTINF:-1, FDF HD
+https://iptvh.it/FDF_stable
+
+#EXTINF:-1, Neox FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fneox%2F
+
+#EXTINF:-1, M3GA FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fmega%2F
+
+#EXTINF:-1, Energy HD
+https://iptvh.it/Energy_stable
+
+#EXTINF:-1, Be Mad HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dbemad&title=https%3A%2F%2Fphotocall.tv%2Ff2qg%2Fmt%3Fch%3Dbemad
+
+#EXTINF:-1, Divinity HD
+https://iptvh.it/Divinity_stable
+
+#EXTINF:-1, Nova FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fnova%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fnova%2F
+
+#EXTINF:-1, Atreseries FHD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F&title=https%3A%2F%2Fwww.atresplayer.com%2Fdirectos%2Fatreseries%2F
+
+#EXTINF:-1, IB3 HD
+plugin://plugin.video.youtube/play/?video_id=QbHj7XvHrK0
+
+#EXTINF:-1, Canal Sur FHD (upscaled HD)
+https://linkastream.co/headless?url=https://youtu.be/hvA1XFlacA0/live
+
+#EXTINF:-1, Canal Sur HD (opt. 2)
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
+
+#EXTINF:-1, RTP Internacional
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional&title=https%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto%2Frtpinternacional
+
+#EXTINF:-1, Paramount Network
+https://iptvh.it/PN_SD
+
+#EXTINF:-1, Real Crime FHD
+https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, CNews FHD
+https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
+
+#EXTINF:-1, C8 FHD
+https://www.dailymotion.com/video/x5gv5rr#tab_embed.m3u8
+
+#EXTINF:-1, France24 Español FHD
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
+#EXTINF:-1, México Travel Channel FHD
+https://www.dailymotion.com/video/x7v76vf#tab_embed.m3u8
+
+#EXTINF:-1, México Travel Channel FHD (v2)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
+
+#EXTINF:-1, Libertad Digital
+https://www.dailymotion.com/video/xnm032#tab_embed.m3u8
+
+#EXTINF:-1, France 2 HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_2
+
+#EXTINF:-1, France 2 FHD
+http://188.155.8.185:3280/play/a04f/index.m3u8
+
+#EXTINF:-1, France 3 HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3&title=https%3A%2F%2Fphotocall.tv%2Fj9kw%2Fl1%3Fch%3Dfrance_3
+
+#EXTINF:-1, France 3 FHD
+http://188.155.8.185:3280/play/a04g/index.m3u8
+
+#EXTINF:-1, Franceinfo HD
+plugin://plugin.video.youtube/play/?video_id=cKw79MI2ZLc
+
+#EXTINF:-1, BeIN Sports Xtra HD
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+
+#EXTINF:-1, BBC One
+http://photocall.tv/od2g/ftv.m3u8?ch=bbcone
+
+#EXTINF:-1, BBC News
+https://photocall.tv/od2g/ftv.m3u8?ch=bbcnews
+
+#EXTINF:-1, Africanews HD
+plugin://plugin.video.youtube/play/?video_id=NQjabLGdP5g
+
+#EXTINF:-1, TN Argentina FHD
+plugin://plugin.video.youtube/play/?video_id=wHn1_QVoXGM
+
+#EXTINF:-1, TN Argentina FHD (2)
+https://linkastream.co/headless?url=https://youtu.be/wHn1_QVoXGM/live
+
+#EXTINF:-1, TVP Argentina FHD
+https://linkastream.co/headless?url=https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1, TVP Argentina FHD (2)
+plugin://plugin.video.youtube/play/?video_id=RRIn2yxYjaY
+
+#EXTINF:-1, ABC News HD (YouTube version)
+plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM
+
+#EXTINF:-1, ABC News HD (YT 2)
+https://linkastream.co/headless?url=https://youtu.be/w_Ma8oQLmSM/live
+
+#EXTINF:-1, DW Español
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCT4Jg8h03dD0iN3Pb5L0PMA/live
+
+#EXTINF:-1, Sport1
+https://iptvh.it/Sport1_proxy
+
+#EXTINF:-1, Sport1 (2)
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?pprotocol=hls
+
+#EXTINF:-1, VOX Deutschland
+plugin://plugin.video.streamlink-tester/?action=play&url=https%3A%2F%2Fwww.2ix2.com%2Fvox%2F&title=https%3A%2F%2Fwww.2ix2.com%2Fvox%2F
+
+#EXTINF:-1, Paramount Movie Channel
+plugin://slyguy.pluto.tv.provider/?_=play&id=5cb0cae7a461406ffe3f5213&_l=.pvr
+
+#EXTINF:-1, BET (PlutoTV) HD
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5ca670f6593a5d78f0e85aed&_l=.pvr
+
+#EXTINF:-1, PlutoTV Cine Comedia HD
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1ac8099c49f600076579b2&_l=.pvr
+
+#EXTINF:-1, PlutoTV Mundo Real HD
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5f1acdfda84c970007e750b5&_l=.pvr
+
+#EXTINF:-1, N24 Doku HD @ PlutoTV
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=60080e8a4bf36000076a81b1&_l=.pvr
+
+#EXTINF:-1, Pluto TV News HD
+plugin://slyguy.pluto.tv.provider/?_=play&_play=1&id=5268abcd0ce20a8472000114&_l=.pvr
+
+#EXTINF:-1, Tastemade HD
+https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, Tastemade FHD (opt. 2)
+https://tastemadeintl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemadeinternational-brightcove/CDN/playlist.m3u8
+
+#EXTINF:-1, FailArmy HD
+http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1, Cheddar HD
+https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, NHK World HD
+https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459-b/nhkwlive-ojp/index_1M.m3u8
+
+#EXTINF:-1, InWonder HD
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Timeline HD
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, DemandAfrica HD
+https://demandafrica-xumo-us.amagi.tv/hls/amagi_hls_data_theafrica-demandafricaxumo/CDN/1280x720_2855600/chunklist.m3u8
+
+#EXTINF:-1, Télé Maroc FHD (opt. 2)
+https://linkastream.co/headless?url=https://livestream.com/accounts/27130247/events/8196478/player?autoPlay=true
+
+#EXTINF:-1, ProSieben (opt. 2)
+http://188.155.8.185:3280/play/a02z/index.m3u8
+
+#EXTINF:-1, ProSieben Maxx (opt. 2)
+http://188.155.8.185:3280/play/a04r/index.m3u8
+
+#EXTINF:-1, Sport1 (3) FHD
+http://188.155.8.185:3280/play/a03o/index.m3u8
+
+#EXTINF:-1, Comedy Central Schweiz FHD
+http://188.155.8.185:3280/play/a01y/index.m3u8
+
+#EXTINF:-1, DMAX Schweiz FHD
+http://188.155.8.185:3280/play/a03l/index.m3u8
+
+#EXTINF:-1, TLC Schweiz FHD
+http://188.155.8.185:3280/play/a038/index.m3u8
+
+#EXTINF:-1, ZDF HD
+http://188.155.8.185:3280/play/a02s/index.m3u8
+
+#EXTINF:-1, 3sat HD
+http://188.155.8.185:3280/play/a02u/index.m3u8
+
+#EXTINF:-1, Sat. 1
+http://46.150.192.58/play/119
+
+#EXTINF:-1, TVE Internacional FHD
+http://188.155.8.185:3280/play/a04n/index.m3u8
+
+#EXTINF:-1, BFM FHD
+https://linkastream.co/headless?url=https://www.dailymotion.com/video/xgz4t17
+
+#EXTINF:-1, FranceInfo HD
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
+
+#EXTINF:-1, Olympic Channel FHD
+https://pubads.g.doubleclick.net/ssai/event/uL3iZD6rQoC4Bg8fWkD56g/master.m3u8 [v1]
+plugin://plugin.video.streamlink-tester/?action=play&url=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us&title=http%3A%2F%2Fstream.pcriot.com%2FZy6j%2Folympic_us [v2]
+
